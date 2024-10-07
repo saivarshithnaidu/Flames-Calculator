@@ -173,6 +173,10 @@ function App() {
                     </ul>
                 )}
             </div>
+                {/* Footer Section */}
+            <footer className="App-footer">
+                <p>&copy; {new Date().getFullYear()} All Rights Reserved.</p>
+            </footer>
         </div>
     );
 }
