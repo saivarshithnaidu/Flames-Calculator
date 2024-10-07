@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Flames-Calculator/static/css/main.d4208012.css",
+    "main.js": "/Flames-Calculator/static/js/main.3978c40e.js",
+    "index.html": "/Flames-Calculator/index.html",
+    "main.d4208012.css.map": "/Flames-Calculator/static/css/main.d4208012.css.map",
+    "main.3978c40e.js.map": "/Flames-Calculator/static/js/main.3978c40e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4208012.css",
+    "static/js/main.3978c40e.js"
+  ]
+}
