@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Flames-Calculator/static/css/main.f3793284.css",
-    "main.js": "/Flames-Calculator/static/js/main.6d7c6cfa.js",
+    "main.js": "/Flames-Calculator/static/js/main.d87b0f65.js",
     "index.html": "/Flames-Calculator/index.html",
     "main.f3793284.css.map": "/Flames-Calculator/static/css/main.f3793284.css.map",
-    "main.6d7c6cfa.js.map": "/Flames-Calculator/static/js/main.6d7c6cfa.js.map"
+    "main.d87b0f65.js.map": "/Flames-Calculator/static/js/main.d87b0f65.js.map"
   },
   "entrypoints": [
     "static/css/main.f3793284.css",
-    "static/js/main.6d7c6cfa.js"
+    "static/js/main.d87b0f65.js"
   ]
 }
