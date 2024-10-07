@@ -175,7 +175,7 @@ function App() {
             </div>
                 {/* Footer Section */}
             <footer className="App-footer">
-                <p>&copy; {new Date().getFullYear()} All Rights Reserved.</p>
+                <p>&copy; {new Date().getFullYear()} All Rights Reserved From PSV SOLUTIONS.</p>
             </footer>
         </div>
     );
